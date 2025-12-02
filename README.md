@@ -1,10 +1,9 @@
-# Futur projet 🛜🖧
- ~ 50h
- - Le reseau/la reseautique par des cas pratiques
- - Page 4/9 done
+# NetPractice 🖧
+ - Page 10/12 done
+![validation](./netpratice.png)
 
-## Keywords
- - administration systeme
+## Description
+Practice network configuration
 
-## To use
-- [ ] net_practice.1.5.tgz
+## Last checks
+- [ ] git push and check
