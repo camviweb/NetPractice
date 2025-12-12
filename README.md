@@ -5,7 +5,7 @@ This project is about practicing network configuration. An interface is provided
 
 # Instructions
 ## How to run the training interface?
-1) Download the `net_practice.tgz`file if you have access to 42 intranet
+1) Download the `net_practice.tgz` file if you have access to 42 intranet
 2) Extract the files using for instance `tar -xzf net_practice.tgz`
 3) Run the `index.html` file in your browser (avoid Firefox)
 4) To train on the 10 levels, enter your login in the field and you can start netpracticing!
@@ -37,4 +37,4 @@ Devices that route traffic between different networks
 Devices that connect devices in the same local network
 
 ### OSI layers 
-7-layer model describing how data travals through a network, from physcial cables (first layer) to applications like web browsers (last layer)
+7-layer model describing how data travels through a network, from physical cables (first layer) to applications like browsers (last layer)
