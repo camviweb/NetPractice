@@ -1,9 +1,6 @@
-# NetPractice 🖧
- - Page 10/12 done
-![validation](./netpratice.png)
+*This project has been created as part of the 42 curriculum by canguyen.*
 
-## Description
-Practice network configuration
+# Description
+This project is about practicing network configuration.
 
-## Last checks
-- [ ] git push and check
+# How to run
