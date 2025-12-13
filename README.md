@@ -1,4 +1,5 @@
-*This project has been created as part of the 42 curriculum by canguyen.*
+*This project has been created as part of the 42 curriculum by canguyen.*  
+![validation](./netpractice.PNG)
 
 # Description
 This project is about practicing network configuration. An interface is provided to configure fake small-scale networks. 
